@@ -3,7 +3,7 @@
 </div>
 <h1>
   Hello!
-  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="30"/>
+  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="90"/>
 </h1>
 
 ---
