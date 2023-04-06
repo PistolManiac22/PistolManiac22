@@ -6,3 +6,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDYwOWM5YTc3NzliYzBhY2Y4MmRmYjc2ZDM4NWY3NjY0ZWExZmMxMCZjdD1n/Dh5q0sShxgp13DwrvG/giphy.gif" width="600" height="300"/>
+</div>
