@@ -3,6 +3,6 @@
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/raymico-fuji-68a58726b">
-    <img src="https://imgur.com/6ZaLlFA" alt="LinkedIn Badge"/>
+    <img src="https://imgur.com/a/jyG7RvJ" alt="LinkedIn Badge"/>
   </a>
 </div>
