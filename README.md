@@ -1,6 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L3Vca26EaTIEU/giphy.gif" width="150"/>
 </div>
+<h1>
+  Hello!
+  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="30px"/>
+</h1>
 
 ---
 
