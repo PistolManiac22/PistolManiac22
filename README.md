@@ -6,7 +6,7 @@
     <img src="https://imgur.com/a/jyG7RvJ" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <blockquote class="imgur-embed-pub" lang="en" data-id="a/jyG7RvJ" data-context="false" ><a href="//imgur.com/a/jyG7RvJ"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
