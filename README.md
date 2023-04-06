@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/L3Vca26EaTIEU/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/L3Vca26EaTIEU/giphy.gif" width="200"/>
 </div>
 <h1>
-  Hello!
+  Hello, How Did You End Up Here?
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="150"/>
 </h1>
 
