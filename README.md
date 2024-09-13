@@ -12,7 +12,7 @@
 
 - 👨‍🎓 I am an active student majoring in Software Engineering at the Indonesia University of Education.
 
-- 🔐 I am currently studying and exploring the world of information security and cyber security.
+- 🔐 I am currently studying and exploring the world of software engineering and cyber security.
 
 - 💼 You can find me on : [![Linkedin Badge](https://img.shields.io/badge/-Ray-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raymico-fuji-68a58726b)
 
